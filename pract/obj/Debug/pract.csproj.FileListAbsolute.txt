@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\pract\pract\bin\Debug\pract.exe.config
+C:\Users\User\source\repos\pract\pract\bin\Debug\pract.exe
+C:\Users\User\source\repos\pract\pract\bin\Debug\pract.pdb
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.btn_save.resources
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.Properties.Resources.resources
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.csproj.GenerateResource.cache
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.exe
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.pdb
+C:\Users\User\source\repos\pract\pract\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\pract\pract\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\pract\pract\obj\Debug\pract.csproj.CopyComplete
